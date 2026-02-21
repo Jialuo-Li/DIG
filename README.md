@@ -28,6 +28,11 @@
 
 ---
 
+## 📰 News
+* **[2026-02-21]** 🎉 Exciting news! Our paper has been accepted to **CVPR 2026**!
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Installation
